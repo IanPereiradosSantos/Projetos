@@ -37,7 +37,7 @@
 import pyautogui
 import time
 time.sleep(5)
-pyautogui.PAUSE = 2
+pyautogui.PAUSE = 1.5
 pyautogui.hotkey("win", "r")
 pyautogui.write("recent")
 pyautogui.press("enter")

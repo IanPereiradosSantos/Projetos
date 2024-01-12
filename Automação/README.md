@@ -1,0 +1,2 @@
+# Automação de limpeza
+Fazer a limpeza de arquivos desnecessários do computador é muito importante para manter o melhor desempenho. Portanto, essa automação (Robotic Process Automation/RPA), feita em Python, tem a finalidade de fazer o trabalho de limpeza de maneira automática e rápida. Desse modo, usuários podem programar a RPA para momentos ociosos, podendo manter o melhor desempenho de seus equipamentos.
