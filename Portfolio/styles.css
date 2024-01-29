@@ -13,7 +13,7 @@ footer {color: white;}
     border-radius: 10px;
     padding: 16px 0 0 16px;
 }
-.navigation {
+.navegação {
     position: fixed;
     top: 390px;
     left: 13px;
@@ -23,7 +23,7 @@ footer {color: white;}
     border-radius: 8px;
     padding: 25px 0 0 20px;    
 }
-.navigation nav ul li a {
+.navegação nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: 600;
@@ -32,7 +32,7 @@ footer {color: white;}
 .nome {
     background-color: #121212;
     border-radius: 10px;
-    bottom: 550px;
+    bottom: 540px;
     position: fixed;
     top: 10px;
     left: 300px;
@@ -40,25 +40,29 @@ footer {color: white;}
     font-weight: 600;
     font-size: 24px;
     width: 130px;
+    padding: 16px 0 0 16px;
 }
 .introdução {
     background-color: #121212;
     border-radius: 10px;
-    bottom: 510px;
     position: fixed;
-    top: 60px;
-    left: 300px;
+    top: 80px;
     text-decoration: none;
     font-weight: 600;
     font-size: 18px;
-    width: 1000px;
+    padding: 16px 16px 0 16px;
+    left: 300px;
+    bottom: 465px;
     }
 .apresentação {
     background-color: #121212;
     border-radius: 10px;
-    bottom: 400px;
     position: fixed;
-    top: 120px;
+    top: 160px;
     left: 300px;
-    width: 1000px;
+    padding: 16px 0 0 16px;
+    bottom: 320px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
 }
