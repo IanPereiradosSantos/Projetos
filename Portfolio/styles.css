@@ -60,6 +60,7 @@ footer {color: white;}
     position: fixed;
     top: 160px;
     left: 300px;
+    right: 10px;
     padding: 16px 0 0 16px;
     bottom: 320px;
     text-decoration: none;
