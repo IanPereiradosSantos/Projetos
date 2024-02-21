@@ -53,27 +53,13 @@ footer {color: white;
     font-size: 24px;
     padding: 16px;
 }
-.introdução {
+.Início {
     background-color: #121212;
     border-radius: 10px;
     position: fixed;
     top: 80px;
     text-decoration: none;
-    font-size: 18px;
-    padding: 16px 16px 0 16px;
-    left: 300px;
-    bottom: 465px;
-    }
-.apresentação {
-    background-color: #121212;
-    border-radius: 10px;
-    position: fixed;
-    top: 160px;
+    padding: 16px;
     left: 300px;
     right: 10px;
-    padding: 16px 0 0 16px;
-    bottom: 320px;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 16px;
 }
