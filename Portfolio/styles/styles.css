@@ -1,7 +1,16 @@
-body {background-color: black;}
-header {color: white;}
-main {color: white;}
-footer {color: white;}
+body {
+    background-color: black;
+    font-family: var(--font-dm-sans);
+}
+header {color: white;
+    font-family: var(--font-dm-sans);
+}
+main {color: white;
+    font-family: var(--font-dm-sans);
+}
+footer {color: white;
+    font-family: var(--font-dm-sans);
+}
 .Retrato {
     position: fixed;
     top: 10px;
@@ -37,15 +46,12 @@ footer {color: white;}
 }.nome {
     background-color: #121212;
     border-radius: 10px;
-    bottom: 540px;
     position: fixed;
     top: 10px;
     left: 300px;
-    text-decoration: none;
     font-weight: 600;
     font-size: 24px;
-    width: 130px;
-    padding: 16px 0 0 16px;
+    padding: 16px;
 }
 .introdução {
     background-color: #121212;
@@ -53,7 +59,6 @@ footer {color: white;}
     position: fixed;
     top: 80px;
     text-decoration: none;
-    font-weight: 600;
     font-size: 18px;
     padding: 16px 16px 0 16px;
     left: 300px;
